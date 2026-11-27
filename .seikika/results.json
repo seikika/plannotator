@@ -1,0 +1,150 @@
+{
+  "evidence": {
+    "docs": {
+      "doc:docs/agent-guides/inbox-messages.md": {
+        "links-resolve": [
+          "3b495236"
+        ]
+      },
+      "doc:docs/agent-guides/inbox-notifications-and-agents.md": {
+        "links-resolve": [
+          "d38c119b"
+        ]
+      }
+    },
+    "repo-hygiene": {
+      "repository:seikika/plannotator": {
+        "has-codeowners": [
+          "e92c3922"
+        ]
+      }
+    }
+  },
+  "format": "seikika-report/v1",
+  "portal": "plannotator",
+  "results": {
+    "docs": {
+      "doc:AGENTS.md": {
+        "level": "bronze"
+      },
+      "doc:CLAUDE.md": {
+        "level": "bronze"
+      },
+      "doc:CONTRIBUTING.md": {
+        "level": "bronze"
+      },
+      "doc:README.md": {
+        "level": "bronze"
+      },
+      "doc:SECURITY.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/annotate.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/claude-code-mod.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/code-review.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/environment.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/guides-and-shared-ui.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-accounts.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-cloudflare-access.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-compose.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-files-and-guides.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-foundation.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-grid.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-launch.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-machines.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-messages.md": {
+        "failing": {
+          "links-resolve": 1
+        },
+        "level": "none"
+      },
+      "doc:docs/agent-guides/inbox-notifications-and-agents.md": {
+        "failing": {
+          "links-resolve": 1
+        },
+        "level": "none"
+      },
+      "doc:docs/agent-guides/inbox-phones-and-security.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-plans.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-routines.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-run-and-secrets.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-ship.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-system.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox-window.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/inbox.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/mobile.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/opencode-t3-and-codex.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/plan-review.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/project-and-development.md": {
+        "level": "bronze"
+      },
+      "doc:docs/agent-guides/server-and-storage.md": {
+        "level": "bronze"
+      },
+      "doc:docs/custom-reviews.md": {
+        "level": "bronze"
+      },
+      "doc:docs/vim-controls.md": {
+        "level": "bronze"
+      }
+    },
+    "repo-hygiene": {
+      "repository:seikika/plannotator": {
+        "failing": {
+          "codeowners-catch-all": 0,
+          "has-codeowners": 1,
+          "owners-are-teams": 0
+        },
+        "level": "none"
+      }
+    }
+  }
+}
